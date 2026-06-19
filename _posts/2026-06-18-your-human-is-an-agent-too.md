@@ -1,11 +1,16 @@
 ---
 layout: post
 title: "Your Human Is an Agent Too"
-date: "2026-06-18"
+date: 2026-06-18
+platform: github-pages
+audience: public
+status: published
 tags:
   - ai-agents
   - workflow
   - productivity
+canonical_url: https://hartsock.github.io/blog/your-human-is-an-agent-too/
+license: cc-by
 ---
 
 I manage three AI coding agents across different machines. One handles
