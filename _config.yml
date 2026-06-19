@@ -1,0 +1,25 @@
+title: Shawn Hartsock
+description: >-
+  Technical essays on source-control infrastructure, git/Perforce bridges, AI
+  agent workflows, and homelab engineering. Canonical source for Medium
+  cross-posts; the writing lives in git.
+url: https://hartsock.github.io
+baseurl: /blog
+author: Shawn Hartsock
+lang: en
+
+theme: minima
+permalink: /:title/          # post URL = https://hartsock.github.io/blog/<slug>/
+markdown: kramdown
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-sitemap
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - README.md
+  - .gitignore
