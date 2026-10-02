@@ -1,4 +1,5 @@
 ---
+redirect_to: https://hartsock.github.io/posts/
 layout: home
 title: Writing
 ---

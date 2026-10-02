@@ -1,4 +1,5 @@
 ---
+redirect_to: https://hartsock.github.io/about/
 layout: page
 title: About
 permalink: /about/
