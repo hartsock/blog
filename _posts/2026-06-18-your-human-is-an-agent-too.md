@@ -9,7 +9,8 @@ tags:
   - ai-agents
   - workflow
   - productivity
-canonical_url: https://hartsock.github.io/blog/your-human-is-an-agent-too/
+canonical_url: https://hartsock.github.io/posts/your-human-is-an-agent-too-it75oazi/
+redirect_to: https://hartsock.github.io/posts/your-human-is-an-agent-too-it75oazi/
 license: cc-by
 ---
 
